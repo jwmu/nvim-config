@@ -1,0 +1,15 @@
+Plug 'altercation/vim-colors-solarized'
+Plug 'tpope/vim-fugitive'
+Plug 'majutsushi/tagbar'
+Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
+Plug 'christoomey/vim-tmux-navigator'
+Plug 'vim-scripts/matchit.zip'
+Plug 'kien/ctrlp.vim'
+Plug 'fatih/vim-go'
+Plug 'Raimondi/delimitMate'
+Plug 'SirVer/ultisnips'
+Plug 'Shougo/deoplete.nvim'
+Plug 'zchee/deoplete-go', { 'do': 'make'}
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'fcitx.vim'
